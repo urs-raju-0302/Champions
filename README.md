@@ -3,6 +3,6 @@
 24-09-2026: number system  
 26-09-2026: Linked LIsts (Singly, Doubly, circular)  
 28-09-2026:Time, Speed & Distance   
-29-09-2026: Time & Work, Pipes & Cisterns
-30-09-2026: Linked lists (singly , Doubly.Circular). Stacks & Queues(Array + Linked List)
-01-10-2026: Averages & Mixtures , SI/CI + Mock Aptitude Test 1
+29-09-2026: Time & Work, Pipes & Cisterns  
+30-09-2026: Linked lists (singly , Doubly.Circular). Stacks & Queues(Array + Linked List)  
+01-10-2026: Averages & Mixtures , SI/CI + Mock Aptitude Test 1  
